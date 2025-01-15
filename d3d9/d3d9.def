@@ -1,0 +1,24 @@
+EXPORTS
+Direct3DCreate9=Proxy_Direct3DCreate9 @1
+Direct3DCreate9Ex=Proxy_Direct3DCreate9Ex @2
+Direct3DCreate9On12=Proxy_Direct3DCreate9On12 @3
+Direct3DCreate9On12Ex=Proxy_Direct3DCreate9On12Ex @4
+PSGPError=Proxy_PSGPError @5
+PSGPSampleTexture=Proxy_PSGPSampleTexture @6
+Ordinal16=Proxy_Ordinal16 @7
+Ordinal22=Proxy_Ordinal22 @8
+D3DPERF_BeginEvent=Proxy_D3DPERF_BeginEvent @9
+D3DPERF_EndEvent=Proxy_D3DPERF_EndEvent @10
+D3DPERF_GetStatus=Proxy_D3DPERF_GetStatus @11
+D3DPERF_QueryRepeatFrame=Proxy_D3DPERF_QueryRepeatFrame @12
+D3DPERF_SetMarker=Proxy_D3DPERF_SetMarker @13
+D3DPERF_SetOptions=Proxy_D3DPERF_SetOptions @14
+D3DPERF_SetRegion=Proxy_D3DPERF_SetRegion @15
+Direct3D9EnableMaximizedWindowedModeShim=Proxy_Direct3D9EnableMaximizedWindowedModeShim @16
+Ordinal17=Proxy_Ordinal17 @17
+Ordinal18=Proxy_Ordinal18 @18
+DebugSetLevel=Proxy_DebugSetLevel @19
+DebugSetMute=Proxy_DebugSetMute @20
+Ordinal19=Proxy_Ordinal19 @21
+Ordinal23=Proxy_Ordinal23 @22
+Direct3DShaderValidatorCreate9=Proxy_Direct3DShaderValidatorCreate9 @23
